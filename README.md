@@ -54,3 +54,4 @@ The following details how to deploy this application.
 See detailed [cookiecutter-django Heroku documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-on-heroku.html).
 # my_excellent_project11
 # my_excellent_project11
+# my_excellent_project
