@@ -49,7 +49,7 @@ LOCALE_PATHS = [str(BASE_DIR / "locale")]
 DATABASES = {
     "default": env.db(
         "DATABASE_URL",
-        default="postgres://laziz:1@localhost:5432/my_exellent_project",
+        default="postgresql://laziz:1@localhost:5432/my_excellent_project_db",
     ),
 }
 
